@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 using UnityEngine.XR;
 using UnityEngine.XR.Interaction.Toolkit;
 
-public class Locomotion : MonoBehaviour
+public class PlayerInteraction : MonoBehaviour
 {
     //Creates an enum that will determine if we're using the right or left controller
     public enum ControllerType
