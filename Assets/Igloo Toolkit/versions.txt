@@ -1,0 +1,19 @@
+v1.3.1 - Hotfix
+------
+
+* Fixed issue with UI Script having an error on start
+* Adjusted colour of crosshair to swap between white and black
+* Small changes to how Igloo prefab is rendered
+
+
+v1.3.0 - Major Release
+------
+
+* Removed redundant example scripts
+* Added Igloo Settings system, and example scene
+* Removed requirement for Virtual Input Cursor within Igloo Manager
+* Added external Klak Spout and NDI package systems
+* Changed Apply Input Settings to Apply Igloo Settings
+* Apply Igloo Settings adds the package references for the Klak packages
+* Button to add spoutResources to Igloo Manager
+* Igloo Settings updates to accomodate the functionality of the Igloo settings UI system
