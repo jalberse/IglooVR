@@ -1,5 +1,19 @@
 {
-  "dependencies": {
+  "scopedRegistries": 
+[
+{ "name": "Unity NuGet",
+ "url": "https://unitynuget-registry.azurewebsites.net",
+ "scopes": [ "org.nuget" ]
+ }, 
+ { "name": "Keijiro", 
+ "url": "https://registry.npmjs.com",
+ "scopes": [ "jp.keijiro" ]
+ }
+ ],
+ "dependencies": {
+    "org.nuget.system.memory": "4.5.3",
+    "jp.keijiro.klak.ndi": "2.0.3", 
+    "jp.keijiro.klak.spout": "2.0.3",
     "com.unity.collab-proxy": "1.17.7",
     "com.unity.feature.development": "1.0.1",
     "com.unity.feature.vr": "1.0.0",

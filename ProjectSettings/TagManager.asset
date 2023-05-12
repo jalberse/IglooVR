@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - WarpBlendOutputCamera
+  - IglooScreen
+  - 3D_UI_Element
   layers:
   - Default
   - TransparentFX
@@ -13,9 +16,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - IglooScreen
+  - IglooPlayer
+  - IglooCompositeQuad
   - 
   - 
   - 

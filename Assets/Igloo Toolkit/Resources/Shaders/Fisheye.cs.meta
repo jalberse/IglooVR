@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: feae12e61661b9046b059ba769a8c8d0
+timeCreated: 1426272695
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fishEyeShader: {fileID: 4800000, guid: 431ac8db0e267c146b18664962be57c3, type: 3}
+  - fisheyeMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
