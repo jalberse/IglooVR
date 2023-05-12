@@ -10,7 +10,7 @@
     <runSpeed>10</runSpeed>
     <walkSpeed>5</walkSpeed>
     <smoothTime>10</smoothTime>
-    <crosshairHideMode>0</crosshairHideMode>
+    <crosshairHideMode>2</crosshairHideMode>
     <isCrosshair3D>false</isCrosshair3D>
   </PlayerSettings>
   <NetworkSettings>
@@ -38,7 +38,7 @@
     <useFramepackTopBottom3D>false</useFramepackTopBottom3D>
     <useWarpBlend>false</useWarpBlend>
     <HeadSettings>
-      <headPositionOffset x="0" y="1.8" z="0" />
+      <headPositionOffset x="0" y="0" z="0" />
       <headRotationOffset x="0" y="0" z="0" />
       <leftEyeOffset x="-0.05" y="0" z="0" />
       <rightEyeOffset x="0.05" y="0" z="0" />
